@@ -1,0 +1,2 @@
+1. How do we actually get the vector normal to the impact surface? Is it cos(theta), or should we do the Vcos(theta-beta)? 
+2. Is my writing okay? Should I add or delete some stuffs? 
